@@ -34,10 +34,7 @@
      myView.isTopBottomKeepBounds = YES;
      [self.view addSubview:myView];
  }
- 
- 
  @end
 
- }
  ```
 
